@@ -16,6 +16,7 @@ The Mac app is not yet signed with an Apple Developer ID. The first time you ope
 - Edit the module's preset: add, remove, move and rename algorithms, and change their parameters, mappings and routing, with every control labelled for screen readers.
 - Copy presets and other files to and from the module's SD card.
 - Make presets offline and upload them later.
+- Export a preset's MIDI mappings as an instrument definition for Asp, the accessible sequencer platform (File > Export as Asp Instrument, Ctrl+E).
 - Read the module's display aloud, including which menu item is selected, and announce what changes on it (NT > Read Display, Ctrl+T; NT > Announce Display Changes, Ctrl+Shift+T).
 - Operate the module's buttons, encoders and pots from the computer keyboard (NT > Remote Control, Ctrl+R).
 
